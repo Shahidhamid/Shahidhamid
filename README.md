@@ -9,7 +9,6 @@
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-shahidhamid-2d333b?style=flat-square&logo=github)](https://github.com/shahidhamid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shahid-hamid)
 [![Email](https://img.shields.io/badge/Email-Contact-8B89CC?style=flat-square&logo=gmail)](mailto:shahid.hamiid@gmail.com)
 
 </div>
