@@ -1,7 +1,7 @@
 <!-- Profile README — dark-mode first, absolute asset URLs -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shahidhamid/Shahidhamid/master/assets/banner.jpg" width="100%" alt="Shahid Hamid — Full Stack Developer" />
+  <img src="./assets/banner.jpg" width="100%" alt="Shahid Hamid — Full Stack Developer" />
 </div>
 
 <br/>
