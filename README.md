@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3600&pause=1200&color=8FB0CC&center=true&vCenter=true&width=720&height=40&lines=Build+tools+people+trust+in+the+room.;Architecture+first.+Interface+second.+Noise+never.;Full+stack+%C2%B7+Data+systems+%C2%B7+Bright+Query" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3600&pause=1200&color=8FB0CC&center=true&vCenter=true&width=720&height=40&lines=Build+tools+people+trust+in+the+room.;Architecture+first.+Interface+second.+Noise+never.;Full+stack+%C2%B7+Data+systems+%C2%B7+Clear+interfaces" alt="tagline" />
 </div>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 I design and ship full-stack systems with a bias toward clarity — products that feel calm under pressure, and data paths that stay understandable months later.
 
-At **Bright Query**, I build collaborative workshop software (**Quorum**): facilitator flows, participant experiences, and the architecture underneath.
+I build collaborative workshop software: facilitator flows, participant experiences, and the architecture underneath.
 
 ---
 
