@@ -1,185 +1,104 @@
-<!--
-  ▓▓▓ SHAHID HAMID — PROFILE HUD ▓▓▓
-  neon / terminal / live telemetry
--->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0b1a3a,70:1a0533,100:050510&height=280&section=header&text=SHAHID%20HAMID&fontSize=56&fontColor=00f0ff&fontAlignY=40&desc=%E2%96%B2%20FULL%20STACK%20%2F%20DATA%20SYSTEMS%20%2F%20ARCHITECTURE%20%E2%96%B2&descSize=14&descAlignY=60&descColor=ff00aa&animation=twinkling&fontAlign=50" width="100%" alt="cyber header" />
+  <img src="./assets/header-parallax.svg" width="100%" alt="Shahid Hamid" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=%E2%96%BA+INITIALIZING+SYSTEMS...;%E2%96%BA+Architecting+scalable+futures;%E2%96%BA+Data+%E2%86%92+Intelligence+%E2%86%92+Impact;%E2%96%BA+Code+that+outlives+the+sprint" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=3800&pause=1200&color=C4A574&center=true&vCenter=true&width=680&height=50&lines=Architecting+systems+that+endure;Turning+data+into+clear+decisions;Craft+over+noise.+Clarity+over+clutter." alt="tagline" />
 </div>
 
 <br />
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/%E2%97%8F_STATUS-ONLINE-00ff9f?style=for-the-badge&labelColor=050510)
-[![GitHub](https://img.shields.io/badge/GITHUB-Shahidhamid-00f0ff?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=050510)](https://github.com/Shahidhamid)
-[![Email](https://img.shields.io/badge/UPLINK-Contact-ff00aa?style=for-the-badge&logo=gmail&logoColor=ff00aa&labelColor=050510)](mailto:shahid.hamiid@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=Shahidhamid&label=SIGNAL&color=00f0ff&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-Shahidhamid-0c1222?style=flat-square&logo=github&logoColor=c4a574)](https://github.com/Shahidhamid)
+[![Email](https://img.shields.io/badge/Email-Contact-0c1222?style=flat-square&logo=gmail&logoColor=c4a574)](mailto:shahid.hamiid@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=Shahidhamid&label=Profile%20views&color=c4a574&style=flat-square)
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║  ◈  IDENTITY MATRIX                                              ║
-║──────────────────────────────────────────────────────────────────║
-║  CALLSIGN     ::  Shahid Hamid                                   ║
-║  CLASS        ::  Full Stack Developer × Data Engineer           ║
-║  DIRECTIVE    ::  Build systems that scale. Ship clarity.        ║
-║  PROTOCOL     ::  Clean architecture · Performance · Longevity   ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+---
 
-Software isn't just code — it's infrastructure for decisions. I design experiences that matter and pipelines that turn raw signal into strategic assets.
+### About
+
+Full Stack Developer and Data Engineering enthusiast focused on systems that scale, experiences that feel intentional, and data that becomes a strategic asset.
+
+Work is guided by **clean architecture**, **performance**, and **long-term maintainability**.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=header&animation=blinking" width="100%" alt="neon line" />
-</div>
+### Focus
 
-## ◈ SYSTEM MAP
-
-```text
-┌─ /core ─────────────────────────────────────────────────────────┐
-│                                                                 │
-│   ▣  DEVELOPMENT                                                │
-│   │   ├─ LANGS      ▸  JavaScript · TypeScript · Python         │
-│   │   ├─ MODE       ▸  Full-Stack Engineering                   │
-│   │   └─ METHOD     ▸  Test-Driven · Scalable Architecture      │
-│                                                                 │
-│   ▣  DATA ENGINEERING                                           │
-│   │   ├─ FOCUS      ▸  ETL Pipelines · Warehousing              │
-│   │   ├─ BELIEF     ▸  Data as Infrastructure                   │
-│   │   └─ OUTPUT     ▸  Actionable Intelligence                  │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+| Practice | Emphasis |
+|:---------|:---------|
+| **Development** | JavaScript · TypeScript · Python · Full-stack engineering · Test-driven, scalable design |
+| **Data Engineering** | ETL pipelines · Warehousing · Data as infrastructure · Actionable intelligence |
 
 ---
 
-## ◈ ARSENAL
+### Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,html,css,sass,postgres,mongodb,redis,docker,aws,git,github,vscode,figma&theme=dark&perline=9" alt="arsenal" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,postgres,mongodb,redis,docker,aws,git&theme=dark&perline=6" alt="Technology stack" />
 </div>
 
 <br />
 
-```text
-  CORE   ▸  JS  TS  Python  Node  React  SQL  Git
-  DATA   ▸  Pandas  ETL  Pipelines  Analytics
-  CREED  ▸  Clean Code · Scale · Speed · Docs
-```
+`JavaScript` `TypeScript` `Python` `Node.js` `React` `SQL` `Git` · `Pandas` `ETL` `Pipelines` `Analytics`
 
 ---
 
-## ◈ ACTIVE MISSIONS
+### Currently
 
-<img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="neon systems" />
+Building full-stack applications and data pipelines that connect clear interfaces with reliable backend processing.
 
-```diff
-+ Deploying full-stack systems with modern frameworks
-+ Engineering ETL flows that turn chaos into signal
-+ Exploring cloud-native & distributed architectures
-+ Building interfaces that make analytics feel alive
-```
-
-Currently wiring frontend experiences into backend data systems — where UX meets infrastructure.
-
-<br clear="both" />
+- Scalable applications with modern frameworks  
+- ETL design for structured transformation  
+- Cloud-native and distributed architectures  
+- Visualization for complex analytics  
 
 ---
 
-## ◈ PATHWAYS — CONTRIBUTION SNAKE
+### Activity
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=520&lines=Watch+the+snake+carve+pathways+through+commits.;Every+green+cell+is+a+move.+Play+the+grid." alt="pathways intro" />
-</div>
-
-<br />
-
-```text
-  ▸ GAME MODE     ::  SNAKE / PATHFINDER
-  ▸ MAP           ::  GitHub contribution grid
-  ▸ OBJECTIVE     ::  Eat the year. Leave a trail.
-  ▸ REFRESH       ::  Auto-updates daily via Actions
-```
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-neon.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake pathways game" src="./dist/github-contribution-grid-snake-neon.svg" width="100%" />
-  </picture>
-</div>
-
-<p align="center">
-  <sub>Neon pathfinder · cyan trail · magenta head · powered by <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
-</p>
-
----
-
-## ◈ TELEMETRY
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Shahidhamid&show_icons=true&theme=radical&hide_border=true&bg_color=050510&title_color=00f0ff&icon_color=ff00aa&text_color=e6e6e6&include_all_commits=true&count_private=true&ring_color=00f0ff" alt="stats" />
-  &nbsp;
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahidhamid&theme=radical&hide_border=true&background=050510&ring=00f0ff&fire=ff00aa&currStreakLabel=00f0ff&sideLabels=ff00aa&sideNums=e6e6e6&dates=8b949e" alt="streak" />
+  <img src="https://fancy-readme-stats.vercel.app/api?username=Shahidhamid&show_icons=true&theme=transparent&hide_border=true&bg_color=0c1222&title_color=c4a574&icon_color=c4a574&text_color=d6dde6&include_all_commits=true&count_private=true&border_radius=8" height="168" alt="GitHub stats" />
+  <img src="https://fancy-readme-stats.vercel.app/api/top-langs/?username=Shahidhamid&layout=compact&theme=transparent&hide_border=true&bg_color=0c1222&title_color=c4a574&text_color=d6dde6&langs_count=6&border_radius=8" height="168" alt="Top languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidhamid&layout=compact&theme=radical&hide_border=true&bg_color=050510&title_color=00f0ff&text_color=e6e6e6&langs_count=8" alt="langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahidhamid&theme=transparent&hide_border=true&background=0c1222&ring=c4a574&fire=c4a574&currStreakLabel=c4a574&sideLabels=9aa7b8&sideNums=d6dde6&dates=8b97a8" alt="Contribution streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahidhamid&bg_color=050510&color=00f0ff&line=ff00aa&point=00ff9f&area=true&area_color=00f0ff&hide_border=true&custom_title=NEURAL%20ACTIVITY%20%2F%20CONTRIBUTIONS" width="100%" alt="graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahidhamid&bg_color=0c1222&color=c4a574&line=9aa7b8&point=c4a574&area=true&area_color=c4a574&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Contribution activity" />
 </div>
 
 ---
 
-## ◈ RESEARCH VECTORS
+### Interests
 
-```text
-  ⚡  Distributed Systems     →  architecture under pressure
-  ⚡  Real-Time Data          →  streams · events · low latency
-  ⚡  ML Pipeline Integration →  raw signal → production models
-  ⚡  Performance Engineering →  measure · optimize · repeat
-```
-
-Where elegant code meets statistical rigor — that's the frontier.
+Distributed systems, real-time data, ML pipeline integration, and performance engineering — where careful software design meets rigorous data practice.
 
 ---
 
-## ◈ OPEN CHANNEL
+### Connect
+
+Open to thoughtful collaborations on data architecture and full-stack product work.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=FF00AA&center=true&vCenter=true&width=600&lines=Ready+for+high-signal+collaborations.;Challenge+the+architecture.+Ship+the+future." alt="collab" />
+
+[![Email](https://img.shields.io/badge/shahid.hamiid%40gmail.com-0c1222?style=flat-square&logo=gmail&logoColor=c4a574)](mailto:shahid.hamiid@gmail.com)
+
 </div>
 
 <br />
 
 <div align="center">
-
-[![TRANSMIT](https://img.shields.io/badge/%E2%96%BA_TRANSMIT-shahid.hamiid%40gmail.com-ff00aa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050510)](mailto:shahid.hamiid@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:1a0533,70:0b1a3a,100:050510&height=140&section=footer&animation=twinkling&text=SIMPLICITY%20%3D%20ULTIMATE%20SOPHISTICATION&fontSize=16&fontColor=00f0ff&fontAlignY=65" width="100%" alt="footer" />
-</div>
-
-<div align="center">
-
-`EOF // transmission complete · Shahidhamid`
-
+  <img src="./assets/footer-parallax.svg" width="100%" alt="" />
 </div>
