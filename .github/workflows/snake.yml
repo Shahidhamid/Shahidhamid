@@ -1,0 +1,35 @@
+name: Generate Snake Pathways
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Shahidhamid
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300f0ff&color_dots=%23050510,%23003344,%23006688,%2300aacc,%2300f0ff
+            dist/github-contribution-grid-snake-neon.svg?color_snake=%23ff00aa&color_dots=%23050510,%231a0533,%230b1a3a,%2300aacc,%2300f0ff
+
+      - name: Commit snake animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/*.svg
+          git diff --staged --quiet || git commit -m "chore: refresh contribution snake pathways"
+          git push
