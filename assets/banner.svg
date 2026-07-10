@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Shahid Hamid">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbf9f3"/>
+      <stop offset="100%" stop-color="#efe9dd"/>
+    </linearGradient>
+    <linearGradient id="navySoft" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#21405F" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#2f5777" stop-opacity="0.04"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#paper)"/>
+
+  <!-- Quiet geometric field (right) -->
+  <g opacity="0.9">
+    <rect x="780" y="48" width="140" height="140" rx="6" fill="#21405F" opacity="0.92">
+      <animate attributeName="opacity" values="0.88;1;0.88" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="940" y="78" width="110" height="110" rx="6" fill="#2f5777" opacity="0.55">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="10s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="860" y="200" width="180" height="72" rx="6" fill="#e3e9ef" stroke="#21405F" stroke-opacity="0.25" stroke-width="1"/>
+    <rect x="720" y="170" width="48" height="48" rx="4" fill="#a9772a" opacity="0.35"/>
+  </g>
+
+  <!-- Soft wash -->
+  <rect width="1200" height="340" fill="url(#navySoft)"/>
+
+  <!-- Classification bar -->
+  <rect y="0" width="1200" height="28" fill="#21405F"/>
+  <text x="600" y="18" text-anchor="middle" fill="#F3EEE2" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="10" letter-spacing="3.5">
+    BRIGHT QUERY  ·  FULL STACK  ·  DATA SYSTEMS
+  </text>
+
+  <!-- Identity -->
+  <text x="72" y="130" fill="#1a1c20" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="600">
+    Shahid Hamid
+  </text>
+  <text x="72" y="168" fill="#4d4f55" font-family="'Public Sans', ui-sans-serif, system-ui, sans-serif" font-size="18">
+    Full Stack Developer building tools for clear collaboration
+  </text>
+  <text x="72" y="210" fill="#8a877c" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" letter-spacing="1.5">
+    React · TypeScript · Python · Data pipelines
+  </text>
+
+  <!-- Accent rule -->
+  <rect x="72" y="236" width="64" height="2" fill="#21405F">
+    <animate attributeName="width" values="64;96;64" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="72" y="268" fill="#21405F" font-family="'Public Sans', ui-sans-serif, system-ui, sans-serif" font-size="14">
+    Currently crafting workshop experiences at Bright Query
+  </text>
+</svg>
