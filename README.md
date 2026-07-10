@@ -94,6 +94,35 @@ Currently wiring frontend experiences into backend data systems — where UX mee
 
 ---
 
+## ◈ PATHWAYS — CONTRIBUTION SNAKE
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=520&lines=Watch+the+snake+carve+pathways+through+commits.;Every+green+cell+is+a+move.+Play+the+grid." alt="pathways intro" />
+</div>
+
+<br />
+
+```text
+  ▸ GAME MODE     ::  SNAKE / PATHFINDER
+  ▸ MAP           ::  GitHub contribution grid
+  ▸ OBJECTIVE     ::  Eat the year. Leave a trail.
+  ▸ REFRESH       ::  Auto-updates daily via Actions
+```
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-neon.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake pathways game" src="./dist/github-contribution-grid-snake-neon.svg" width="100%" />
+  </picture>
+</div>
+
+<p align="center">
+  <sub>Neon pathfinder · cyan trail · magenta head · powered by <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+</p>
+
+---
+
 ## ◈ TELEMETRY
 
 <div align="center">
