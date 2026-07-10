@@ -1,87 +1,146 @@
+<!--
+  Profile README — Shahid Hamid
+  Animated via: capsule-render, typing-svg, skillicons, github-readme-stats
+-->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=220&section=header&text=Shahid%20Hamid&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Systems&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" alt="header" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=90&lines=Building+systems+that+scale;Turning+data+into+decisions;Clean+code.+Clear+architecture." alt="typing" />
+</div>
+
+<br />
+
 <div align="center">
 
-# Shahid Hamid
-
-**Full Stack Developer** | **Data Engineering Enthusiast**
-
-*Crafting elegant solutions at the intersection of web development and data architecture*
-
----
-
-[![GitHub](https://img.shields.io/badge/GitHub-shahidhamid-2d333b?style=flat-square&logo=github)](https://github.com/shahidhamid)
-[![Email](https://img.shields.io/badge/Email-Contact-8B89CC?style=flat-square&logo=gmail)](mailto:shahid.hamiid@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Shahidhamid-161b22?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/Shahidhamid)
+[![Email](https://img.shields.io/badge/Email-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:shahid.hamiid@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=Shahidhamid&label=Profile%20views&color=58a6ff&style=for-the-badge)](https://github.com/Shahidhamid)
 
 </div>
 
-## Philosophy
+---
 
-Building software is about more than writing code—it's about architecting systems that scale, creating experiences that matter, and transforming data into strategic assets. I approach every project with a focus on clean architecture, performance optimization, and long-term maintainability.
+## About me
+
+```text
+┌─ whoami ──────────────────────────────────────────────┐
+│  Full Stack Developer & Data Engineering Enthusiast   │
+│  Crafting elegant solutions where web meets data      │
+└───────────────────────────────────────────────────────┘
+```
+
+Building software is about more than writing code — it's about architecting systems that scale, creating experiences that matter, and transforming data into strategic assets.
+
+I approach every project with a focus on **clean architecture**, **performance**, and **long-term maintainability**.
+
+---
 
 ## Expertise
 
-```
-├── Development
-│   ├── Languages        → JavaScript, Python
-│   ├── Paradigm         → Full Stack Engineering
-│   └── Approach         → Test-Driven, Scalable Architecture
+```text
+expertise/
+├── 💻  Development
+│   ├── Languages     →  JavaScript, TypeScript, Python
+│   ├── Paradigm      →  Full Stack Engineering
+│   └── Approach      →  Test-Driven, Scalable Architecture
 │
-└── Data Engineering
-    ├── Focus            → ETL Pipelines, Data Warehousing
-    ├── Philosophy       → Data as Infrastructure
-    └── Goal             → Actionable Intelligence from Raw Data
+└── 📊  Data Engineering
+    ├── Focus         →  ETL Pipelines, Data Warehousing
+    ├── Philosophy    →  Data as Infrastructure
+    └── Goal          →  Actionable Intelligence from Raw Data
 ```
 
-## Technical Arsenal
+---
 
-**Core Technologies**  
-`JavaScript` `Python` `Node.js` `React` `SQL` `Git`
+## Tech stack
 
-**Data Engineering Stack**  
-`Pandas` `ETL Design` `Data Pipelines` `Analytics`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,html,css,sass,postgres,mongodb,redis,docker,aws,git,github,vscode,figma&perline=9" alt="skills" />
+</div>
 
-**Principles**  
-Clean Code • Scalable Systems • Performance Optimization • Documentation
+<br />
 
-## Current Work
+| Layer | Tools |
+|:------|:------|
+| **Core** | `JavaScript` `TypeScript` `Python` `Node.js` `React` `SQL` `Git` |
+| **Data** | `Pandas` `ETL Design` `Data Pipelines` `Analytics` |
+| **Principles** | Clean Code · Scalable Systems · Performance · Documentation |
 
-I'm currently focused on building robust full-stack applications while developing sophisticated data pipelines that transform complex datasets into clear business intelligence. My work emphasizes the elegant integration of frontend experiences with backend data processing systems.
+---
 
-**Active Projects:**
-- Architecting scalable full-stack applications with modern frameworks
-- Designing and implementing ETL processes for data transformation
-- Exploring cloud-native architectures and distributed systems
-- Building data visualization interfaces for complex analytics
+## Current focus
 
-## GitHub Analytics
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding" />
+
+I'm building robust full-stack applications and data pipelines that turn complex datasets into clear business intelligence — with frontend experiences tightly integrated into backend processing.
+
+**Active work**
+- Architecting scalable apps with modern frameworks
+- Designing ETL processes for data transformation
+- Exploring cloud-native & distributed systems
+- Building visualization interfaces for analytics
+
+<br clear="both" />
+
+---
+
+## GitHub pulse
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shahidhamid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahidhamid&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&dates=8b949e" alt="streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidhamid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="top languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahidhamid&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph" />
+</div>
+
+---
+
+## Interests
+
+I'm drawn to where software engineering meets data science — elegant code with statistical rigor. The future belongs to systems that run efficiently *and* surface deep insight.
+
+| Area | Focus |
+|:-----|:------|
+| Distributed Systems | Architecture that holds under load |
+| Real-Time Data | Streams, events, low-latency paths |
+| ML Pipelines | From raw data to production models |
+| Performance | Measure, optimize, repeat |
+
+---
+
+## Let's build something
+
+Always open to projects that challenge conventional data architecture or push full-stack craft further.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=shahidhamid&show_icons=true&theme=apprentice&hide_border=true&bg_color=0d1117&title_color=8B89CC&icon_color=8B89CC&text_color=c9d1d9&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shahidhamid&theme=dark&hide_border=true&background=0d1117&ring=8B89CC&fire=8B89CC&currStreakLabel=8B89CC&sideNums=c9d1d9&dates=8b949e)
+[![Email](https://img.shields.io/badge/Drop%20a%20line-shahid.hamiid%40gmail.com-58a6ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahid.hamiid@gmail.com)
 
 </div>
-
-## Professional Interests
-
-I'm particularly interested in the convergence of software engineering and data science—where elegant code meets statistical rigor. I believe the future of software development lies in systems that not only function efficiently but also provide deep insights through intelligent data processing.
-
-**Research Areas:**
-- Distributed Systems Architecture
-- Real-Time Data Processing
-- Machine Learning Pipeline Integration
-- Performance Engineering
-
-## Collaboration
-
-I'm always interested in discussing innovative projects, particularly those that challenge conventional approaches to data architecture or push the boundaries of full-stack development. Feel free to reach out for collaboration on meaningful technical challenges.
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
+</div>
 
-![](https://komarev.com/ghpvc/?username=shahidhamid&style=flat-square&color=8B89CC)
+<div align="center">
 
-*"Simplicity is the ultimate sophistication." — Leonardo da Vinci*
+*"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
 
 </div>
