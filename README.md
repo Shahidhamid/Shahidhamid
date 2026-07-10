@@ -1,104 +1,146 @@
+<!-- Aceternity-inspired profile — aurora · beams · sparkles · bento -->
+
 <div align="center">
-  <img src="./assets/header-parallax.svg" width="100%" alt="Shahid Hamid" />
+  <img src="./assets/aceternity-hero.svg" width="100%" alt="Shahid Hamid — aurora hero" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=3800&pause=1200&color=C4A574&center=true&vCenter=true&width=680&height=50&lines=Architecting+systems+that+endure;Turning+data+into+clear+decisions;Craft+over+noise.+Clarity+over+clutter." alt="tagline" />
+  <img src="./assets/hero-aurora.jpg" width="92%" alt="Aurora atmosphere" style="border-radius: 16px;" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3600&pause=1100&color=7DD3FC&center=true&vCenter=true&width=700&height=45&lines=Shipping+interfaces+with+depth+and+motion;Designing+data+systems+that+stay+clear;Quiet+craft.+Strong+architecture." alt="typing" />
 </div>
 
 <br />
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Shahidhamid-0c1222?style=flat-square&logo=github&logoColor=c4a574)](https://github.com/Shahidhamid)
-[![Email](https://img.shields.io/badge/Email-Contact-0c1222?style=flat-square&logo=gmail&logoColor=c4a574)](mailto:shahid.hamiid@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=Shahidhamid&label=Profile%20views&color=c4a574&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-Shahidhamid-020617?style=for-the-badge&logo=github&logoColor=7dd3fc)](https://github.com/Shahidhamid)
+[![Email](https://img.shields.io/badge/Email-Contact-020617?style=for-the-badge&logo=gmail&logoColor=a5b4fc)](mailto:shahid.hamiid@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=Shahidhamid&label=Views&color=38bdf8&style=for-the-badge)
 
 </div>
 
 ---
 
-### About
+## About
 
-Full Stack Developer and Data Engineering enthusiast focused on systems that scale, experiences that feel intentional, and data that becomes a strategic asset.
+<table>
+<tr>
+<td width="28%" valign="top" align="center">
+  <img src="./assets/avatar-abstract.jpg" width="180" alt="Abstract portrait" />
+</td>
+<td width="72%" valign="middle">
 
-Work is guided by **clean architecture**, **performance**, and **long-term maintainability**.
+**Shahid Hamid** — Full Stack Developer & Data Engineering enthusiast.
+
+I build products with the same care as a polished landing page: layered depth, intentional motion, and systems that stay maintainable.
+
+Focus areas: **clean architecture**, **performance**, and **long-term clarity**.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Focus
+## Bento
 
-| Practice | Emphasis |
-|:---------|:---------|
-| **Development** | JavaScript · TypeScript · Python · Full-stack engineering · Test-driven, scalable design |
-| **Data Engineering** | ETL pipelines · Warehousing · Data as infrastructure · Actionable intelligence |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/bento-glow.jpg" width="100%" alt="" />
+      <br />
+      <h3>Development</h3>
+      Languages → JavaScript, TypeScript, Python<br />
+      Paradigm → Full-stack engineering<br />
+      Approach → Test-driven, scalable design
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/bento-glow.jpg" width="100%" alt="" />
+      <br />
+      <h3>Data Engineering</h3>
+      Focus → ETL pipelines, warehousing<br />
+      Philosophy → Data as infrastructure<br />
+      Goal → Actionable intelligence
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Stack
+## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,postgres,mongodb,redis,docker,aws,git&theme=dark&perline=6" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,postgres,mongodb,redis,docker,aws,git&theme=dark&perline=6" alt="stack" />
 </div>
 
 <br />
 
-`JavaScript` `TypeScript` `Python` `Node.js` `React` `SQL` `Git` · `Pandas` `ETL` `Pipelines` `Analytics`
+<div align="center">
+
+`JavaScript` `TypeScript` `Python` `Node.js` `React` `SQL` `Git`  
+`Pandas` `ETL` `Pipelines` `Analytics`
+
+</div>
 
 ---
 
-### Currently
+## Now
 
-Building full-stack applications and data pipelines that connect clear interfaces with reliable backend processing.
+Building full-stack applications and data pipelines where frontend craft meets reliable backend processing.
 
-- Scalable applications with modern frameworks  
+- Scalable apps with modern frameworks  
 - ETL design for structured transformation  
-- Cloud-native and distributed architectures  
+- Cloud-native & distributed architectures  
 - Visualization for complex analytics  
 
 ---
 
-### Activity
+## Pulse
 
 <div align="center">
-  <img src="https://fancy-readme-stats.vercel.app/api?username=Shahidhamid&show_icons=true&theme=transparent&hide_border=true&bg_color=0c1222&title_color=c4a574&icon_color=c4a574&text_color=d6dde6&include_all_commits=true&count_private=true&border_radius=8" height="168" alt="GitHub stats" />
-  <img src="https://fancy-readme-stats.vercel.app/api/top-langs/?username=Shahidhamid&layout=compact&theme=transparent&hide_border=true&bg_color=0c1222&title_color=c4a574&text_color=d6dde6&langs_count=6&border_radius=8" height="168" alt="Top languages" />
+  <img src="https://fancy-readme-stats.vercel.app/api?username=Shahidhamid&show_icons=true&theme=transparent&hide_border=true&bg_color=020617&title_color=7dd3fc&icon_color=a5b4fc&text_color=e2e8f0&include_all_commits=true&count_private=true&border_radius=12" height="170" alt="stats" />
+  <img src="https://fancy-readme-stats.vercel.app/api/top-langs/?username=Shahidhamid&layout=compact&theme=transparent&hide_border=true&bg_color=020617&title_color=7dd3fc&text_color=e2e8f0&langs_count=6&border_radius=12" height="170" alt="languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahidhamid&theme=transparent&hide_border=true&background=0c1222&ring=c4a574&fire=c4a574&currStreakLabel=c4a574&sideLabels=9aa7b8&sideNums=d6dde6&dates=8b97a8" alt="Contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahidhamid&theme=transparent&hide_border=true&background=020617&ring=38bdf8&fire=818cf8&currStreakLabel=7dd3fc&sideLabels=94a3b8&sideNums=e2e8f0&dates=64748b" alt="streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahidhamid&bg_color=0c1222&color=c4a574&line=9aa7b8&point=c4a574&area=true&area_color=c4a574&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Contribution activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahidhamid&bg_color=020617&color=7dd3fc&line=818cf8&point=38bdf8&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20graph" width="100%" alt="graph" />
 </div>
 
 ---
 
-### Interests
+## Interests
 
-Distributed systems, real-time data, ML pipeline integration, and performance engineering — where careful software design meets rigorous data practice.
+Distributed systems · Real-time data · ML pipeline integration · Performance engineering
 
 ---
 
-### Connect
+## Connect
 
-Open to thoughtful collaborations on data architecture and full-stack product work.
+Open to collaborations that value craft — strong product surfaces and solid data foundations.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/shahid.hamiid%40gmail.com-0c1222?style=flat-square&logo=gmail&logoColor=c4a574)](mailto:shahid.hamiid@gmail.com)
+[![Email](https://img.shields.io/badge/shahid.hamiid%40gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=7dd3fc)](mailto:shahid.hamiid@gmail.com)
 
 </div>
 
 <br />
 
 <div align="center">
-  <img src="./assets/footer-parallax.svg" width="100%" alt="" />
+  <img src="./assets/aceternity-footer.svg" width="100%" alt="" />
 </div>
