@@ -1,5 +1,3 @@
-<!-- Profile README — dark-mode first, absolute asset URLs -->
-
 <div align="center">
   <img src="./assets/hero.jpg" width="100%" alt="Shahid Hamid — Full Stack Developer" />
 </div>
@@ -7,7 +5,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3600&pause=1200&color=8FB0CC&center=true&vCenter=true&width=720&height=40&lines=Build+tools+people+trust+in+the+room.;Architecture+first.+Interface+second.+Noise+never.;Full+stack+%C2%B7+Data+systems+%C2%B7+Clear+interfaces" alt="tagline" />
+
+**Shahid Hamid**  
+Full Stack Developer · Data Systems · Product Engineering
+
 </div>
 
 <p align="center">
@@ -17,25 +18,25 @@
 
 ---
 
-### About
+## About
 
-I design and ship full-stack systems with a bias toward clarity — products that feel calm under pressure, and data paths that stay understandable months later.
+I am a full stack developer focused on building reliable, maintainable software across the product and data layers. My work spans collaborative workshop platforms—facilitator workflows, participant experiences, and the systems that support them—and data pipelines that turn raw inputs into actionable insight.
 
-I build collaborative workshop software: facilitator flows, participant experiences, and the architecture underneath.
-
----
-
-### Focus
-
-```text
-Product engineering   →  TypeScript · React · Node — interfaces that respect attention
-Data systems          →  ETL · warehousing · pipelines that turn signal into decisions
-Craft                 →  Clean architecture · performance · docs that age well
-```
+I prioritize clear architecture, thoughtful interfaces, and documentation that remains useful as systems evolve.
 
 ---
 
-### Stack
+## Expertise
+
+| Area | Focus |
+|------|-------|
+| **Product engineering** | TypeScript, React, and Node.js applications with attention to usability and performance |
+| **Data systems** | ETL pipelines, warehousing, and tooling that support reliable reporting and decision-making |
+| **Engineering practice** | Modular design, operational clarity, and long-term maintainability |
+
+---
+
+## Technology
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,postgres,docker,aws,git&theme=dark&perline=9" alt="Tech stack" />
@@ -43,16 +44,16 @@ Craft                 →  Clean architecture · performance · docs that age we
 
 ---
 
-### Now
+## Current Focus
 
-- Workshop & facilitation product surfaces  
-- Full-stack systems with durable boundaries  
-- Data pipelines that stay operable  
-- Performance and maintainability as defaults  
+- Workshop and facilitation product development
+- Full-stack systems with well-defined service boundaries
+- Data pipelines designed for observability and ease of operation
+- Performance optimization and sustainable code quality
 
 ---
 
-### Activity
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahidhamid&theme=github_dark" height="180" alt="GitHub stats" />
@@ -69,9 +70,5 @@ Craft                 →  Clean architecture · performance · docs that age we
 ---
 
 <p align="center">
-  Open to thoughtful collaborations — <a href="mailto:shahid.hamiid@gmail.com">shahid.hamiid@gmail.com</a>
-</p>
-
-<p align="center">
-  <em>Simplicity is the ultimate sophistication.</em>
+  Open to collaboration and consulting opportunities — <a href="mailto:shahid.hamiid@gmail.com">shahid.hamiid@gmail.com</a>
 </p>
